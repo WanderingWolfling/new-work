@@ -60,3 +60,5 @@ void MyProgram(string[] args)
 }
 
 MyProgram(new string[] { });
+
+// Ну ПРОСТИТЕ Я ЗАБЫЛ ПРО КОМИТЫ И ПИСАЛ ВСЕ НА ОДНОМ ПОРЫВЕ
